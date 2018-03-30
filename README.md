@@ -25,10 +25,9 @@ $retorno = $objeto->get_operadora($telefones);
 var_dump($retorno);
 ```
 
-## Autores
+## Autor
 
 * **Dimitry Duarte** - (https://github.com/dimitryduarte?tab=repositories)
-* **Marco Antônio Jr** - (https://github.com/marcoan1105?tab=repositories)
 
 ## Contribuição
 Todas as consultas somente são possíveis devido ao serviço de consulta disponibilizado pelo site:
